@@ -23,7 +23,7 @@ You can learn more about my experiences by viewing this document: [Learn about m
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kiran-singh-07639a1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiran-singh-07639a1b5" height="30" width="40" /></a>
-<a href="https://instagram.com/@_kiran.acoustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_kiran.acoustic" height="30" width="40" /></a>
+<a href="https://instagram.com/@_kkkkk.kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_kiran.acoustic" height="30" width="40" /></a>
 <a href="https://medium.com/@kiransinghverma6234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kiransinghverma6234" height="30" width="40" /></a>
 </p>
 
