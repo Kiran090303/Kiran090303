@@ -16,7 +16,7 @@
 
 - ## 📄 Know About My Experiences
 
-You can learn more about my experiences by viewing this document: [Know about my experiences]([https://drive.google.com/file/d/1QMdRm7R2teWIkMX0f24nwERquUzr800L/view?usp=sharing]).
+You can learn more about my experiences by viewing this document: [Learn about my experiences](https://drive.google.com/file/d/1QMdRm7R2teWIkMX0f24nwERquUzr800L/view?usp=sharing).
 
 - ⚡ Fun fact *I sketch anime characters*
 
