@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kiran090303&label=Profile%20views&color=0e75b6&style=flat" alt="kiran090303" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kiran090303" alt="kiran090303" />
-  </a>
-</p>
-
 <!-- Code GIF -->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
@@ -56,8 +50,3 @@ You can learn more about my experiences by viewing this document:
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran090303&show_icons=true&locale=en&layout=compact" alt="kiran090303" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran090303&show_icons=true&locale=en" alt="kiran090303" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran090303&" alt="kiran090303" /></p>
